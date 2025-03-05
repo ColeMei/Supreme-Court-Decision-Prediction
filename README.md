@@ -1,5 +1,7 @@
 # Supreme Court Decision Prediction Using Machine Learning
 
+Tips: Due to the large size of the original data file, it cannot be uploaded to the GitHub repository.
+
 ## Project Overview
 
 This project aims to predict the outcomes of U.S. Supreme Court cases (whether the court will reverse or affirm a lower court's decision) using various machine learning models, including Logistic Regression (LR) and Deep Neural Networks (DNN). The dataset includes information about cases, the participants, and the justices involved. The project explores the performance of different models, with a particular focus on the effects of incorporating decision-related and political orientation features.
